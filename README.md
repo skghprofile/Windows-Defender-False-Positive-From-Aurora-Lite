@@ -1,13 +1,11 @@
 # Windows Defender False Positive From Aurora Lite
 
 ## Table of Contents
-- [Windows Defender False Positive From Aurora Lite](#windows-defender-false-positive-from-aurora-lite)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Windows Defender Results](#windows-defender-results)
-  - [Quarantined File Analysis](#quarantined-file-analysis)
-  - [False Positive Analysis](#false-positive-analysis)
-  - [Windows Defender Exclusion](#windows-defender-exclusion)
+- [Introduction](#introduction)
+- [Windows Defender Results](#windows-defender-results)
+- [Quarantined File Analysis](#quarantined-file-analysis)
+- [False Positive Analysis](#false-positive-analysis)
+- [Windows Defender Exclusion](#windows-defender-exclusion)
 
 ---
 
